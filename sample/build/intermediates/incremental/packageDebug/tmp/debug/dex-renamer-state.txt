@@ -1,0 +1,4 @@
+#Thu Apr 22 16:35:23 BST 2021
+base.0=D\:\\PdfViewPager-master\\sample\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

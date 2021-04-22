@@ -1,0 +1,182 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\PdfViewPager-master\sample\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from D:\PdfViewPager-master\sample\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from D:\PdfViewPager-master\sample\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from D:\PdfViewPager-master\sample\src\main\AndroidManifest.xml:2:1-42:12
+MERGED from [:library] D:\PdfViewPager-master\library\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-18:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\y00482393\.gradle\caches\transforms-2\files-2.1\45dc9a7cb1bdf70b617ddb2da2067a0f\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\y00482393\.gradle\caches\transforms-2\files-2.1\63a0b4540d2be39105a45c3ab1aec3bf\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\y00482393\.gradle\caches\transforms-2\files-2.1\2c92570ef039e72fb20bea253786538c\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\y00482393\.gradle\caches\transforms-2\files-2.1\be2e163b36db1b5711001db0945c7c8b\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\y00482393\.gradle\caches\transforms-2\files-2.1\f8948a82ba258cdc2cddf1c79fca5ea3\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\y00482393\.gradle\caches\transforms-2\files-2.1\5c22d2a17f37caef9f01d9a1aa791bff\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\y00482393\.gradle\caches\transforms-2\files-2.1\4cc4241d6931827bc180d496992b471f\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\y00482393\.gradle\caches\transforms-2\files-2.1\c1df938ef0ac511efac99fa2ff95c467\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\y00482393\.gradle\caches\transforms-2\files-2.1\133d4ca28ec66a008d6b4e21c55ba126\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\y00482393\.gradle\caches\transforms-2\files-2.1\39b630541874a724c8e51185d9c6263b\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.0] C:\Users\y00482393\.gradle\caches\transforms-2\files-2.1\1c26a471590004238cec8d30eb751d9c\core-1.3.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\y00482393\.gradle\caches\transforms-2\files-2.1\011d5e01ee4b21d4eadad13b9c65b95f\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\y00482393\.gradle\caches\transforms-2\files-2.1\026f040b42b8bbadd231d65f82146b90\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\y00482393\.gradle\caches\transforms-2\files-2.1\02bfe900b650227de71a35ffc30d9e94\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\y00482393\.gradle\caches\transforms-2\files-2.1\ffba5bb30512dde0f058eed0c99c5fd1\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\y00482393\.gradle\caches\transforms-2\files-2.1\523c14df2f6563a29cfe279e6f5d9e8b\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\y00482393\.gradle\caches\transforms-2\files-2.1\5e6a38e177ce0ea1d0bb37cf27521253\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\y00482393\.gradle\caches\transforms-2\files-2.1\0615d7eb1c22dca1fc4cc932052c9aae\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\y00482393\.gradle\caches\transforms-2\files-2.1\45f25f80770fd765f831ae0177b149a3\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\y00482393\.gradle\caches\transforms-2\files-2.1\d8b14824a12ebb8faf664b03e06e2af6\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\PdfViewPager-master\sample\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from D:\PdfViewPager-master\sample\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from D:\PdfViewPager-master\sample\src\main\AndroidManifest.xml:2:1-42:12
+	package
+		ADDED from D:\PdfViewPager-master\sample\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from D:\PdfViewPager-master\sample\src\main\AndroidManifest.xml
+		INJECTED from D:\PdfViewPager-master\sample\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\PdfViewPager-master\sample\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\PdfViewPager-master\sample\src\main\AndroidManifest.xml
+		INJECTED from D:\PdfViewPager-master\sample\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\PdfViewPager-master\sample\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\PdfViewPager-master\sample\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\PdfViewPager-master\sample\src\main\AndroidManifest.xml
+		INJECTED from D:\PdfViewPager-master\sample\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\PdfViewPager-master\sample\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from D:\PdfViewPager-master\sample\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\PdfViewPager-master\sample\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from D:\PdfViewPager-master\sample\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\PdfViewPager-master\sample\src\main\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from D:\PdfViewPager-master\sample\src\main\AndroidManifest.xml:9:22-77
+application
+ADDED from D:\PdfViewPager-master\sample\src\main\AndroidManifest.xml:11:5-41:19
+MERGED from [:library] D:\PdfViewPager-master\library\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-16:19
+MERGED from [:library] D:\PdfViewPager-master\library\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-16:19
+MERGED from [androidx.core:core:1.3.0] C:\Users\y00482393\.gradle\caches\transforms-2\files-2.1\1c26a471590004238cec8d30eb751d9c\core-1.3.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.0] C:\Users\y00482393\.gradle\caches\transforms-2\files-2.1\1c26a471590004238cec8d30eb751d9c\core-1.3.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\y00482393\.gradle\caches\transforms-2\files-2.1\026f040b42b8bbadd231d65f82146b90\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\y00482393\.gradle\caches\transforms-2\files-2.1\026f040b42b8bbadd231d65f82146b90\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.0] C:\Users\y00482393\.gradle\caches\transforms-2\files-2.1\1c26a471590004238cec8d30eb751d9c\core-1.3.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from D:\PdfViewPager-master\sample\src\main\AndroidManifest.xml:13:9-41
+	android:name
+		ADDED from D:\PdfViewPager-master\sample\src\main\AndroidManifest.xml:12:9-42
+activity#es.voghdev.pdfviewpager.MainActivity
+ADDED from D:\PdfViewPager-master\sample\src\main\AndroidManifest.xml:14:9-22:20
+	android:label
+		ADDED from D:\PdfViewPager-master\sample\src\main\AndroidManifest.xml:16:13-45
+	android:theme
+		ADDED from D:\PdfViewPager-master\sample\src\main\AndroidManifest.xml:17:13-76
+	android:name
+		ADDED from D:\PdfViewPager-master\sample\src\main\AndroidManifest.xml:15:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\PdfViewPager-master\sample\src\main\AndroidManifest.xml:18:13-21:29
+action#android.intent.action.MAIN
+ADDED from D:\PdfViewPager-master\sample\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from D:\PdfViewPager-master\sample\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\PdfViewPager-master\sample\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from D:\PdfViewPager-master\sample\src\main\AndroidManifest.xml:20:27-74
+activity#es.voghdev.pdfviewpager.AssetOnXMLActivity
+ADDED from D:\PdfViewPager-master\sample\src\main\AndroidManifest.xml:23:9-25:79
+	android:theme
+		ADDED from D:\PdfViewPager-master\sample\src\main\AndroidManifest.xml:25:13-76
+	android:name
+		ADDED from D:\PdfViewPager-master\sample\src\main\AndroidManifest.xml:24:13-47
+activity#es.voghdev.pdfviewpager.AssetOnSDActivity
+ADDED from D:\PdfViewPager-master\sample\src\main\AndroidManifest.xml:26:9-28:79
+	android:theme
+		ADDED from D:\PdfViewPager-master\sample\src\main\AndroidManifest.xml:28:13-76
+	android:name
+		ADDED from D:\PdfViewPager-master\sample\src\main\AndroidManifest.xml:27:13-46
+activity#es.voghdev.pdfviewpager.RemotePDFActivity
+ADDED from D:\PdfViewPager-master\sample\src\main\AndroidManifest.xml:29:9-31:79
+	android:theme
+		ADDED from D:\PdfViewPager-master\sample\src\main\AndroidManifest.xml:31:13-76
+	android:name
+		ADDED from D:\PdfViewPager-master\sample\src\main\AndroidManifest.xml:30:13-46
+activity#es.voghdev.pdfviewpager.ZoomablePDFActivityPhotoView
+ADDED from D:\PdfViewPager-master\sample\src\main\AndroidManifest.xml:32:9-34:79
+	android:theme
+		ADDED from D:\PdfViewPager-master\sample\src\main\AndroidManifest.xml:34:13-76
+	android:name
+		ADDED from D:\PdfViewPager-master\sample\src\main\AndroidManifest.xml:33:13-57
+activity#es.voghdev.pdfviewpager.PDFWithScaleActivity
+ADDED from D:\PdfViewPager-master\sample\src\main\AndroidManifest.xml:35:9-37:79
+	android:theme
+		ADDED from D:\PdfViewPager-master\sample\src\main\AndroidManifest.xml:37:13-76
+	android:name
+		ADDED from D:\PdfViewPager-master\sample\src\main\AndroidManifest.xml:36:13-49
+activity#es.voghdev.pdfviewpager.InvalidPdfActivity
+ADDED from D:\PdfViewPager-master\sample\src\main\AndroidManifest.xml:38:9-40:79
+	android:theme
+		ADDED from D:\PdfViewPager-master\sample\src\main\AndroidManifest.xml:40:13-76
+	android:name
+		ADDED from D:\PdfViewPager-master\sample\src\main\AndroidManifest.xml:39:13-47
+uses-sdk
+INJECTED from D:\PdfViewPager-master\sample\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\PdfViewPager-master\sample\src\main\AndroidManifest.xml
+MERGED from [:library] D:\PdfViewPager-master\library\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:library] D:\PdfViewPager-master\library\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\y00482393\.gradle\caches\transforms-2\files-2.1\45dc9a7cb1bdf70b617ddb2da2067a0f\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\y00482393\.gradle\caches\transforms-2\files-2.1\45dc9a7cb1bdf70b617ddb2da2067a0f\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\y00482393\.gradle\caches\transforms-2\files-2.1\63a0b4540d2be39105a45c3ab1aec3bf\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\y00482393\.gradle\caches\transforms-2\files-2.1\63a0b4540d2be39105a45c3ab1aec3bf\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\y00482393\.gradle\caches\transforms-2\files-2.1\2c92570ef039e72fb20bea253786538c\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\y00482393\.gradle\caches\transforms-2\files-2.1\2c92570ef039e72fb20bea253786538c\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\y00482393\.gradle\caches\transforms-2\files-2.1\be2e163b36db1b5711001db0945c7c8b\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\y00482393\.gradle\caches\transforms-2\files-2.1\be2e163b36db1b5711001db0945c7c8b\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\y00482393\.gradle\caches\transforms-2\files-2.1\f8948a82ba258cdc2cddf1c79fca5ea3\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\y00482393\.gradle\caches\transforms-2\files-2.1\f8948a82ba258cdc2cddf1c79fca5ea3\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\y00482393\.gradle\caches\transforms-2\files-2.1\5c22d2a17f37caef9f01d9a1aa791bff\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\y00482393\.gradle\caches\transforms-2\files-2.1\5c22d2a17f37caef9f01d9a1aa791bff\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\y00482393\.gradle\caches\transforms-2\files-2.1\4cc4241d6931827bc180d496992b471f\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\y00482393\.gradle\caches\transforms-2\files-2.1\4cc4241d6931827bc180d496992b471f\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\y00482393\.gradle\caches\transforms-2\files-2.1\c1df938ef0ac511efac99fa2ff95c467\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\y00482393\.gradle\caches\transforms-2\files-2.1\c1df938ef0ac511efac99fa2ff95c467\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\y00482393\.gradle\caches\transforms-2\files-2.1\133d4ca28ec66a008d6b4e21c55ba126\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\y00482393\.gradle\caches\transforms-2\files-2.1\133d4ca28ec66a008d6b4e21c55ba126\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\y00482393\.gradle\caches\transforms-2\files-2.1\39b630541874a724c8e51185d9c6263b\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\y00482393\.gradle\caches\transforms-2\files-2.1\39b630541874a724c8e51185d9c6263b\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.0] C:\Users\y00482393\.gradle\caches\transforms-2\files-2.1\1c26a471590004238cec8d30eb751d9c\core-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] C:\Users\y00482393\.gradle\caches\transforms-2\files-2.1\1c26a471590004238cec8d30eb751d9c\core-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\y00482393\.gradle\caches\transforms-2\files-2.1\011d5e01ee4b21d4eadad13b9c65b95f\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\y00482393\.gradle\caches\transforms-2\files-2.1\011d5e01ee4b21d4eadad13b9c65b95f\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\y00482393\.gradle\caches\transforms-2\files-2.1\026f040b42b8bbadd231d65f82146b90\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\y00482393\.gradle\caches\transforms-2\files-2.1\026f040b42b8bbadd231d65f82146b90\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\y00482393\.gradle\caches\transforms-2\files-2.1\02bfe900b650227de71a35ffc30d9e94\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\y00482393\.gradle\caches\transforms-2\files-2.1\02bfe900b650227de71a35ffc30d9e94\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\y00482393\.gradle\caches\transforms-2\files-2.1\ffba5bb30512dde0f058eed0c99c5fd1\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\y00482393\.gradle\caches\transforms-2\files-2.1\ffba5bb30512dde0f058eed0c99c5fd1\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\y00482393\.gradle\caches\transforms-2\files-2.1\523c14df2f6563a29cfe279e6f5d9e8b\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\y00482393\.gradle\caches\transforms-2\files-2.1\523c14df2f6563a29cfe279e6f5d9e8b\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\y00482393\.gradle\caches\transforms-2\files-2.1\5e6a38e177ce0ea1d0bb37cf27521253\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\y00482393\.gradle\caches\transforms-2\files-2.1\5e6a38e177ce0ea1d0bb37cf27521253\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\y00482393\.gradle\caches\transforms-2\files-2.1\0615d7eb1c22dca1fc4cc932052c9aae\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\y00482393\.gradle\caches\transforms-2\files-2.1\0615d7eb1c22dca1fc4cc932052c9aae\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\y00482393\.gradle\caches\transforms-2\files-2.1\45f25f80770fd765f831ae0177b149a3\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\y00482393\.gradle\caches\transforms-2\files-2.1\45f25f80770fd765f831ae0177b149a3\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\y00482393\.gradle\caches\transforms-2\files-2.1\d8b14824a12ebb8faf664b03e06e2af6\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\y00482393\.gradle\caches\transforms-2\files-2.1\d8b14824a12ebb8faf664b03e06e2af6\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from D:\PdfViewPager-master\sample\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		ADDED from [:library] D:\PdfViewPager-master\library\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:9-38
+	android:minSdkVersion
+		INJECTED from D:\PdfViewPager-master\sample\src\main\AndroidManifest.xml
+		ADDED from D:\PdfViewPager-master\sample\src\main\AndroidManifest.xml
+		INJECTED from D:\PdfViewPager-master\sample\src\main\AndroidManifest.xml
+service#es.voghdev.pdfviewpager.library.service.CopyAssetService
+ADDED from [:library] D:\PdfViewPager-master\library\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-15:19
+	android:exported
+		ADDED from [:library] D:\PdfViewPager-master\library\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from [:library] D:\PdfViewPager-master\library\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-84
