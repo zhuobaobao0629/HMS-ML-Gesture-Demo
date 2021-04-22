@@ -1,11 +1,12 @@
 apply plugin: 'com.android.application'
 apply plugin: 'checkstyle'
+apply plugin: 'com.huawei.agconnect'  // HUAWEI agconnect Gradle plugin
 
 android {
     compileSdkVersion 29
 
     defaultConfig {
-        applicationId "es.voghdev.pdfviewpager"
+        applicationId "com.yufeihua.pdfviewpager"
         minSdkVersion 15
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }

@@ -23,7 +23,7 @@ import org.junit.Rule;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 
-import es.voghdev.pdfviewpager.MainActivity;
+import com.yufeihua.pdfviewpager.MainActivity;
 import es.voghdev.pdfviewpager.R;
 import es.voghdev.pdfviewpager.library.PDFViewPager;
 

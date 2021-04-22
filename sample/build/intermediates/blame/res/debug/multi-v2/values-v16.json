@@ -4,17 +4,7 @@
             "outputFile": "D:\\Gesture_Demo\\HMS-ML-Gesture-Demo\\sample\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\y00482393\\.gradle\\caches\\transforms-2\\files-2.1\\1c26a471590004238cec8d30eb751d9c\\core-1.3.0\\res\\values-v16\\values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "65",
-                        "endOffsets": "116"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\y00482393\\.gradle\\caches\\transforms-2\\files-2.1\\45dc9a7cb1bdf70b617ddb2da2067a0f\\appcompat-1.2.0\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\y00482393\\.gradle\\caches\\transforms-2\\files-2.1\\4885a44dcb1ab32e6d3ed50d3dff38d1\\appcompat-1.2.0\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -30,6 +20,16 @@
                         "endLines": "6",
                         "endColumns": "12",
                         "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\y00482393\\.gradle\\caches\\transforms-2\\files-2.1\\9a9f4072855420bb5ff559a81229b4f0\\core-1.3.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
                     }
                 }
             ]

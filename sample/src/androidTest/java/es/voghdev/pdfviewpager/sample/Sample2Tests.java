@@ -28,7 +28,7 @@ import org.junit.runner.RunWith;
 
 import java.util.List;
 
-import es.voghdev.pdfviewpager.MainActivity;
+import com.yufeihua.pdfviewpager.MainActivity;
 import es.voghdev.pdfviewpager.R;
 import es.voghdev.pdfviewpager.sample.idlingresource.WaitIdlingResource;
 

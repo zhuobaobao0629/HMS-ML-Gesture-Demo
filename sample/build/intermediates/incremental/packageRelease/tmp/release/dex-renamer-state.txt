@@ -1,0 +1,4 @@
+#Thu Apr 22 18:38:28 BST 2021
+base.0=D\:\\Gesture_Demo\\HMS-ML-Gesture-Demo\\sample\\build\\intermediates\\dex\\release\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
